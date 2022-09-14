@@ -1,7 +1,7 @@
 # Articulated 3D Human-Object Interactions from RGB Videos: An Empirical Analysis of Approaches and Challenges [3DV 2022] 
 [Sanjay Haresh](https://www.sanjayharesh.com), [Xiaohao Sun](), [Hanxiao Jiang](https://jianghanxiao.github.io/), [Angel Xuan Chang](http://angelxuanchang.github.io/), [Manolis Savva](https://msavva.github.io/)
 
-[Paper]()&nbsp; [Website](https://3dlg-hcvc.github.io/3dhoi/)
+[Paper](https://arxiv.org/pdf/2209.05612.pdf)&nbsp; [Website](https://3dlg-hcvc.github.io/3dhoi/)
 
 <img src="docs/img/3dhoi_overview.png"/>
 
